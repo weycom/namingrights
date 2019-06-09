@@ -1,0 +1,2 @@
+# namingrights
+Naming Rights Platform
